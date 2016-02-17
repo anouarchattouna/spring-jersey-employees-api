@@ -1,0 +1,2 @@
+INSERT INTO `employeesDB`.`employee` (`id`, `firstName`, `lastName`, `salary`) VALUES (1, 'another', 'dev', 1000);
+INSERT INTO `employeesDB`.`employee` (`id`, `firstName`, `lastName`, `salary`) VALUES (2, 'jean', 'dupond', 5000);
